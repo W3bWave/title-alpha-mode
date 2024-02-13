@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunktitl"]=self["webpackChunktitl"]||[]).push([[380],{7380:function(e,n,r){r.r(n),r.d(n,{default:function(){return a}});var t=r(4108);function u(e,n,r,u,i,l){return(0,t.Wz)(),(0,t.An)("div",null," delivery ")}var i={name:"DeliveryView"},l=r(4100);const c=(0,l.c)(i,[["render",u]]);var a=c}}]);
+//# sourceMappingURL=380.3579e380.js.map
